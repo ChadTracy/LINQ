@@ -1,0 +1,18 @@
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_13F\Labs\Lab1\Lab1\bin\Debug\Lab1.exe.config
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_13F\Labs\Lab1\Lab1\bin\Debug\Lab1.exe
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_13F\Labs\Lab1\Lab1\bin\Debug\Lab1.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_13F\Labs\Lab1\Lab1\obj\Debug\Lab1.csprojResolveAssemblyReference.cache
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_13F\Labs\Lab1\Lab1\obj\Debug\Lab1.exe
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_13F\Labs\Lab1\Lab1\obj\Debug\Lab1.pdb
+C:\Users\BatComputer\Dropbox (Personal)\CIS 200\Assignments\Lab 1\Lab1Start\Lab1\Lab1\bin\Debug\Lab1.exe.config
+C:\Users\BatComputer\Dropbox (Personal)\CIS 200\Assignments\Lab 1\Lab1Start\Lab1\Lab1\obj\Debug\Lab1.exe
+C:\Users\BatComputer\Dropbox (Personal)\CIS 200\Assignments\Lab 1\Lab1Start\Lab1\Lab1\obj\Debug\Lab1.pdb
+C:\Users\BatComputer\Dropbox (Personal)\CIS 200\Assignments\Lab 1\Lab1Start\Lab1\Lab1\bin\Debug\Lab1.exe
+C:\Users\BatComputer\Dropbox (Personal)\CIS 200\Assignments\Lab 1\Lab1Start\Lab1\Lab1\bin\Debug\Lab1.pdb
+C:\Users\BatComputer\Dropbox (Personal)\CIS 200\Assignments\Lab 1\Lab1Start\Lab1\Lab1\obj\Debug\Lab1.csprojResolveAssemblyReference.cache
+C:\Users\Chad\Documents\GitHub\Portfolio\Programming\CSharpJava\C#\Lab 1\Lab1Start\Lab1\Lab1\bin\Debug\Lab1.exe.config
+C:\Users\Chad\Documents\GitHub\Portfolio\Programming\CSharpJava\C#\Lab 1\Lab1Start\Lab1\Lab1\obj\Debug\Lab1.exe
+C:\Users\Chad\Documents\GitHub\Portfolio\Programming\CSharpJava\C#\Lab 1\Lab1Start\Lab1\Lab1\obj\Debug\Lab1.pdb
+C:\Users\Chad\Documents\GitHub\Portfolio\Programming\CSharpJava\C#\Lab 1\Lab1Start\Lab1\Lab1\bin\Debug\Lab1.exe
+C:\Users\Chad\Documents\GitHub\Portfolio\Programming\CSharpJava\C#\Lab 1\Lab1Start\Lab1\Lab1\bin\Debug\Lab1.pdb
+C:\Users\Chad\Documents\GitHub\Portfolio\Programming\CSharpJava\C#\Lab 1\Lab1Start\Lab1\Lab1\obj\Debug\Lab1.csprojResolveAssemblyReference.cache
